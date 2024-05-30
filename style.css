@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+    background-color: white;
+}
+
+.links{
+    color: #333;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
+.bar{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+.container {
+    max-width: 800px;
+
+    margin: auto;
+
+    background: #C3F3C0;
+
+    padding: 20px;
+}
+
+header {
+    background: #32A87C;
+
+    color: white;
+
+    padding: 10px 0;
+
+    text-align: center;
+}
+
+section {
+    margin: 20px 0;
+}
+
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.experience,
+.contact,
+.passion,
+.competences,
+.langue,
+.education {
+    background-color: #7EE081;
+
+    padding: 15px;
+
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #333;
+}
